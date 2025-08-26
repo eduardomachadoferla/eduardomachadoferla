@@ -41,22 +41,20 @@
 ## 📚 Aprendizado Contínuo
 
 ### Projetos de Estudo
-- Criação de um site estático utilizando **HTML, CSS e JavaScript** para apresentar informações pessoais e projetos.  
-- Desenvolvimento de um site web simples usando **HTML, CSS e JavaScript** para gerenciar e listar tarefas pessoais.  
-- Desenvolvimento de um site web de notícias simples usando **HTML, CSS e JavaScript**.  
-- Site de vendas de roupas usando **PHP, HTML, CSS, JavaScript e MySQL**.  
-- Site de vendas de cursos usando **PHP, HTML, CSS, JavaScript e MySQL**.  
-- Plataforma para registro dos atrasos dos alunos, vinculada ao número da carteirinha da biblioteca e impressora térmica de tickets (**em produção**).  
+- Criação de um site estático utilizando.
+- Desenvolvimento de um site web para gerenciar e listar tarefas pessoais.  
+- Desenvolvimento de um site web de notícias.  
+- Site de vendas de roupas.
+- Site de vendas de cursos.
+- Plataforma para registro dos atrasos dos alunos (**em produção**).  
 - Inteligência Artificial, chamada **Jarvis**, feita em **Python**.
 
 ### Habilidades Técnicas
 - **Front-end:** HTML, CSS, JavaScript  
 - **Back-end:** PHP 7.6/8.2, MySQL, Laravel (iniciante)  
-- **Programação:** C++, C# (básico), Python (básico)  
+- **Programação:** C++, C# (básico), Python (intermediario)  
 - **Desenvolvimento de API**  
 - **Dispositivos Mobile** (estudando)  
-- **Pacote Office**
-
 ---
 
 ## 📫 Onde me encontrar

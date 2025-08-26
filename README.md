@@ -26,6 +26,15 @@
 ## 📊 GitHub Stats
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardomachadoferla&show_icons=true&theme=tokyonight)
+[Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardomachadoferla&show_icons=true&theme=radical)
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardomachadoferla&show_icons=true&theme=merko)
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardomachadoferla&show_icons=true&theme=gruvbox)
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardomachadoferla&show_icons=true&theme=dark)
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardomachadoferla&show_icons=true&theme=dracula)
 
 ---
 

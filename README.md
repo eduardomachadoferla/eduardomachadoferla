@@ -2,27 +2,36 @@
 
 🎓 Estudante de **Programação / Desenvolvimento Web**  
 💻 Apaixonado por **tecnologia, sistemas web e automações**  
-🚀 Atualmente trabalhando em projetos de **PHP, MySQL e JavaScript**  
-📚 Sempre aprendendo mais sobre **arquitetura de software, segurança e boas práticas de código**  
+🚀 Trabalhando em projetos de **PHP, MySQL e JavaScript**  
+📚 Sempre aprendendo sobre **arquitetura de software, segurança e boas práticas**
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomachadoferla&layout=compact&theme=dracula)
+## 🛠️ Tecnologias e Ferramentas
 
+### Front-end
+🌐 HTML | CSS | JavaScript
 
+### Back-end
+⚙️ PHP | MySQL
 
-- 🌐 Front-end: **HTML | CSS | JavaScript**
-- ⚙️ Back-end: **PHP | MySQL**
-- 📦 Versionamento: **Git | GitHub**
-- 🖥️ Outros: **Python | C++ | MicroPython**
+### Outros
+🐍 Python | C++ | MicroPython
+
+### Versionamento
+📦 Git | GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomachadoferla&layout=compact&theme=radical)
 
 ---
 
-## 📌 Projetos em destaque
+## 🚀 Projetos em Destaque
 
-- 🔹 [SoS Atraso](#) – Sistema para registro de atrasos escolares com impressão de tickets.  
-- 🔹 [Jarvs](#) – Inteligencia artificial para automatização
+- 🔹 [SoS Atraso](#) – **PHP, MySQL, JavaScript**  
+  Sistema para registro de atrasos escolares com impressão de tickets.
+
+- 🔹 [Jarvs](#) – **Python, MicroPython**  
+  Assistente virtual inteligente para automação de tarefas.
 
 ---
 
@@ -34,8 +43,9 @@
 
 ## 📫 Onde me encontrar
 
-- Telefone: 45 984314554 
-- 📧 Email: **emachadoferla@gmail.com**  
+- 📧 Email: [emachadoferla@gmail.com](mailto:emachadoferla@gmail.com)  
+- 📱 WhatsApp: [Enviar mensagem](https://wa.me/5545984314554)  
+- 🌐 LinkedIn: [Seu Perfil](#)
 
 ---
 

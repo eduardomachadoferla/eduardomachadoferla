@@ -21,23 +21,40 @@
 ### Versionamento
 📦 Git | GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomachadoferla&layout=compact&theme=radical)
+### Badges de tecnologias
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 - 🔹 [SoS Atraso](#) – **PHP, MySQL, JavaScript**  
-  Sistema para registro de atrasos escolares com impressão de tickets.
+  Sistema para registro de atrasos escolares com impressão de tickets.  
+  ![SoS Atraso Demo](https://media.giphy.com/media/3o6ZsY0bC4F3zZ4Z5y/giphy.gif)
 
 - 🔹 [Jarvs](#) – **Python, MicroPython**  
-  Assistente virtual inteligente para automação de tarefas.
+  Assistente virtual inteligente para automação de tarefas.  
+  ![Jarvs Demo](https://media.giphy.com/media/l0HlRm1jgd3HtH5eY/giphy.gif)
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardomachadoferla&show_icons=true&theme=tokyonight)
+![Eduardo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eduardomachadoferla&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomachadoferla&layout=compact&theme=tokyonight)
+
+---
+
+## 📚 Aprendizado Contínuo
+
+- **React.js** – Intermediário  
+- **Node.js** – Iniciante  
+- **Inteligência Artificial** – Estudo  
+- **Segurança em sistemas web** – Aprendizado contínuo
 
 ---
 

@@ -29,17 +29,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-- 🔹 [SoS Atraso](#) – **PHP, MySQL, JavaScript**  
-  Sistema para registro de atrasos escolares com impressão de tickets.  
-  ![SoS Atraso Demo](https://media.giphy.com/media/3o6ZsY0bC4F3zZ4Z5y/giphy.gif)
-
-- 🔹 [Jarvs](#) – **Python, MicroPython**  
-  Assistente virtual inteligente para automação de tarefas.  
-  ![Jarvs Demo](https://media.giphy.com/media/l0HlRm1jgd3HtH5eY/giphy.gif)
-
----
 
 ## 📊 GitHub Stats
 

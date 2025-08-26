@@ -8,6 +8,9 @@
 ---
 
 ## 🚀 Tecnologias e Ferramentas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomachadoferla&layout=compact&theme=dracula)
+
+
 
 - 🌐 Front-end: **HTML | CSS | JavaScript**
 - ⚙️ Back-end: **PHP | MySQL**

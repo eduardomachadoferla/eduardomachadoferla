@@ -16,7 +16,7 @@
 ⚙️ PHP | MySQL
 
 ### Outros
-🐍 Python | C++ | MicroPython
+🐍 Python | C++ |
 
 ### Versionamento
 📦 Git | GitHub

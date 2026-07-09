@@ -1,68 +1,128 @@
-# 👋 Olá, eu sou o Eduardo!
+# 👋 Olá! Eu sou o Eduardo Machado Ferla
 
-🎓 Estudante de **Programação / Desenvolvimento Web**  
-💻 Apaixonado por **tecnologia, sistemas web e automações**  
-🚀 Trabalhando em projetos de **PHP, MySQL e JavaScript**  
-📚 Sempre aprendendo sobre **arquitetura de software, segurança e boas práticas**
+💻 Desenvolvedor Full Stack em formação, apaixonado por tecnologia e pela criação de soluções que resolvem problemas reais.
+
+Atualmente estudo e desenvolvo projetos utilizando **PHP, JavaScript, Python, MySQL e React**, sempre buscando escrever código limpo, escalável e seguindo boas práticas de desenvolvimento.
+
+🚀 Meu objetivo é evoluir continuamente como desenvolvedor, explorando novas tecnologias e transformando ideias em aplicações funcionais.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Tecnologias
 
 ### Front-end
-🌐 HTML | CSS | JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
 
 ### Back-end
-⚙️ PHP | MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
+</p>
 
-### Outros
-🐍 Python | C++ |
+### Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Versionamento
-📦 Git | GitHub
-
-### Badges de tecnologias
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
----
-
-
-## 📊 GitHub Stats
-
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardomachadoferla&show_icons=true&theme=tokyonight)
-![Eduardo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eduardomachadoferla&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomachadoferla&layout=compact&theme=tokyonight)
+### Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+</p>
 
 ---
 
-## 📚 Aprendizado Contínuo
+# 📌 Projetos em Destaque
 
-### Projetos de Estudo
-- Criação de um site estático utilizando.
-- Desenvolvimento de um site web para gerenciar e listar tarefas pessoais.  
-- Desenvolvimento de um site web de notícias.  
-- Site de vendas de roupas.
-- Site de vendas de cursos.
-- Plataforma para registro dos atrasos dos alunos (**em produção**).  
-- Inteligência Artificial, chamada **Jarvis**, feita em **Python**.
+## 🏫 Sistema de Controle de Atrasos
+Sistema desenvolvido para gerenciamento e registro de atrasos de alunos.
 
-### Habilidades Técnicas
-- **Front-end:** HTML, CSS, JavaScript  
-- **Back-end:** PHP 7.6/8.2, MySQL, Laravel (iniciante)  
-- **Programação:** C++, C# (básico), Python (intermediario)  
-- **Desenvolvimento de API**  
-- **Dispositivos Mobile** (estudando)  
----
-
-## 📫 Onde me encontrar
-
-- 📧 Email: [emachadoferla@gmail.com](mailto:emachadoferla@gmail.com)  
-- 📱 WhatsApp: [Enviar mensagem](https://wa.me/5545984314554)  
-- 🌐 LinkedIn: [Seu Perfil](#)
+**Tecnologias**
+- PHP
+- MySQL
+- JavaScript
+- HTML
+- CSS
 
 ---
 
-✨ _"A tecnologia move o mundo, mas são as pessoas que dão sentido a ela."_ ✨
+## 🛒 E-commerce Full Stack
+Loja virtual completa com gerenciamento de produtos, carrinho de compras e painel administrativo.
+
+**Tecnologias**
+- PHP
+- MySQL
+- JavaScript
+
+---
+
+## 📚 Plataforma de Cursos Online
+Sistema para disponibilização de cursos, gerenciamento de alunos e conteúdos.
+
+---
+
+## 📰 Portal de Notícias
+Sistema de publicação de notícias com gerenciamento de categorias e painel administrativo.
+
+---
+
+## ✅ Sistema de Gerenciamento de Tarefas
+Aplicação para organização de tarefas pessoais com cadastro, edição e exclusão.
+
+---
+
+## 🤖 Jarvis AI
+Assistente virtual desenvolvido em Python com foco em automação e inteligência artificial.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardomachadoferla&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomachadoferla&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardomachadoferla&theme=tokyonight"/>
+</p>
+
+---
+
+# 📖 Atualmente estudando
+
+- Arquitetura de Software
+- APIs REST
+- Laravel
+- React
+- Segurança Web
+- Clean Code
+- Design Patterns
+- Docker
+
+---
+
+# 🎯 Objetivos
+
+✔ Construir aplicações modernas e escaláveis.
+
+✔ Aprender novas tecnologias constantemente.
+
+✔ Contribuir com projetos Open Source.
+
+✔ Atuar como Desenvolvedor Full Stack.
+
+---
+
+# 📫 Contato
+
+📧 **Email:** emachadoferla@gmail.com
+
+💼 **LinkedIn:** *(adicione o link quando criar ou atualizar seu perfil)*
+
+📱 **WhatsApp:** https://wa.me/5545984314554
+
+---
+
+> **"Código é mais do que instruções para um computador. É uma forma de transformar ideias em realidade."**

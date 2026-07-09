@@ -119,8 +119,6 @@ Assistente virtual desenvolvido em Python com foco em automação e inteligênci
 
 📧 **Email:** emachadoferla@gmail.com
 
-💼 **LinkedIn:** *(adicione o link quando criar ou atualizar seu perfil)*
-
 📱 **WhatsApp:** https://wa.me/5545984314554
 
 ---
